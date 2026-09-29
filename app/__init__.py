@@ -1,0 +1,1 @@
+"""MCP Knowledge Builder MVP."""

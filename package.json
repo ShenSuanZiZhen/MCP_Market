@@ -1,0 +1,13 @@
+{
+  "name": "mcp-knowledge-builder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:frontend": "tsc -p tsconfig.json",
+    "check:frontend": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
